@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/templedonation/static/css/main.82194726.css",
+    "main.js": "/templedonation/static/js/main.61d30da9.js",
+    "static/js/453.e6432b08.chunk.js": "/templedonation/static/js/453.e6432b08.chunk.js",
+    "index.html": "/templedonation/index.html",
+    "main.82194726.css.map": "/templedonation/static/css/main.82194726.css.map",
+    "main.61d30da9.js.map": "/templedonation/static/js/main.61d30da9.js.map",
+    "453.e6432b08.chunk.js.map": "/templedonation/static/js/453.e6432b08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82194726.css",
+    "static/js/main.61d30da9.js"
+  ]
+}
